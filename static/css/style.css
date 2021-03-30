@@ -92,10 +92,6 @@
  #html-skill:hover{
    color: red;
  }
- 
-/* .skill-span{
-  margin: 20px;
-} */
 
 .skill{
   filter:grayscale(100%);
