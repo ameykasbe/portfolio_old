@@ -46,7 +46,7 @@
    background-color: rgba(246,248,250,255);
  }
  
- .section-experience{
+ .section-skills{
    background-color:  rgb(235, 236, 238);
  }
  
@@ -88,7 +88,39 @@
  #youtube:hover{
    background-color: #FF0000;
  }
+
+ #html-skill:hover{
+   color: red;
+ }
  
+/* .skill-span{
+  margin: 20px;
+} */
+
+.skill{
+  filter:grayscale(100%);
+  margin-top: 20px;
+  margin-right: 30px;
+}
+.skill:hover{
+  filter:none;
+}
+
+.skill-size-1{
+  height: 70px;
+  width: auto;
+}
+
+.skill-size-2{
+  height: 80px;
+  width: auto;
+}
+
+.skill-size-3{
+  height: 90px;
+  width: auto;
+}
+
  #facebook{
    padding: 10px 18px;
  }
