@@ -1,9 +1,9 @@
 .section-intro {
    background: url('../images/intro-background-image.jpg');
-   background-size: cover;
-   background-position: center center;
    background-attachment: fixed;
    min-height: 725px;
+   background-size: cover;
+   background-position: center center;
    padding: 0px;
    margin: 0px;
  }
